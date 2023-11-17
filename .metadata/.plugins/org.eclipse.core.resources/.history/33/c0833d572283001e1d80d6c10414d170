@@ -1,0 +1,18 @@
+package aplication;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Date {
+
+	public static void main(String[] args) {
+		
+		
+		
+		Date y1 = sdf1.parse("05/11/2023");
+		
+		
+
+	}
+
+}
